@@ -1,2 +1,0 @@
-# paradox
-Just for fun
